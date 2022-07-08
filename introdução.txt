@@ -1,0 +1,1 @@
+Esse é um exercicio simples onde treinamos o clone de um projeto, a inclusão de uma nova branch e a unificação dela.

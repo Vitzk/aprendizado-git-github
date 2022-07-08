@@ -1,0 +1,4 @@
+Usando linguagens atualizadas para explicação:
+    branchs são metaversos do projeto principal.
+        nelas são possíveis trabalhar de forma paralela sem interferencia no projeto.
+        assim que conluidas, elas podem ser unificadas e consolidadas

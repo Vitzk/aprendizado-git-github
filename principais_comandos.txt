@@ -1,0 +1,12 @@
+  git status
+  git diff
+  git add apollo11.txt
+  git reset HEAD apollo11.txt
+  git checkout -- apollo11.txt
+  git commit -m 'mensagem'
+  git commit --amend
+  git branch nome
+  git branch -d test2 (deleta a branch)
+  git checkout -b nome (cria e muda)
+  git merge (merge)
+  git push origin branchs
